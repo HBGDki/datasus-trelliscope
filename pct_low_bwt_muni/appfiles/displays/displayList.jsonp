@@ -1,0 +1,12 @@
+__loadDisplayList__bbaf33e1([
+  {
+    "group": "common",
+    "name": "pct_low_bwt_muni",
+    "desc": "percent low birth weight yearly by municipality for term births",
+    "n": 4513,
+    "height": 400,
+    "width": 400,
+    "updated": "2018-03-15 02:01:47",
+    "keySig": "0e4871fb6ad1d9cd2d68857d75737bae"
+  }
+])
